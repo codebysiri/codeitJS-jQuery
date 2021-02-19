@@ -10,11 +10,12 @@
 
 - [D-Day 계산기](https://sincerity.tistory.com/156)
 
+- [드럼 시퀀스](https://sincerity.tistory.com/165)
+
 <h3> Chapter02: jQuery 활용하기 </h3>
 
 `jQuery`의 기능에 대해 더 상세히 알아보고 웹 애플리케이션 만들어보기
 
-결과물 :
 
-- [드럼 시퀀스](https://sincerity.tistory.com/165)
+
 
