@@ -16,6 +16,6 @@
 
 `jQuery`의 기능에 대해 더 상세히 알아보고 웹 애플리케이션 만들어보기
 
-
+- [청기 백기 게임](https://sincerity.tistory.com/167)
 
 
