@@ -94,17 +94,19 @@
         loop.currentTime = 0;
     });
 
-    $(document).on('keydown', function(event){
+    $(document).on('keydown', function(event) {
         if (Number(event.key) >= 1 && Number(event.key) <= 9) {
             $('#cell' + event.key).addClass('playing');
             var cur = audioFiles[Number(event.key) - 1];
             cur.currentTime = 0;
             cur.play();
         }
+    });
 
     $(document).on('keyup', function() {
         $('.cell').removeClass('playing');
     });
+
 </script>
 </body>
 </html>
