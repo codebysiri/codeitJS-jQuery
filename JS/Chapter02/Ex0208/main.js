@@ -1,6 +1,8 @@
-function calculateRectangleArea(width, height){
+// 여기에 calculateRectangleArea 함수를 작성해 주세요.
+function calculateRectangleArea(width, height) {
     return width * height;
-}
+};
+
 
 // 테스트 코드
 let area1 = calculateRectangleArea(3, 4); // 가로 3, 세로 4인 직사각형의 넓이 계산

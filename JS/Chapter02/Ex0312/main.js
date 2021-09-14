@@ -1,8 +1,9 @@
 function printTriangle(height) {
-    let message = '';
+	// 여기에 코드를 작성해 주세요.
+    let star = '';
     for (let i = 0; i < height; i++) {
-        message += '*';
-        console.log(message);
+        star += '*';
+        console.log(star);
     }
 }
 
