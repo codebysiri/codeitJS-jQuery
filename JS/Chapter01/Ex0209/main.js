@@ -1,7 +1,8 @@
+// 코드를 작성해 주세요.
 function printChorus() {
-    console.log('무궁화 삼천리 화려 강산');
-    console.log('대한 사람 대한으로 길이 보전하세');
-};
+    console.log('무궁화 삼천리  화려  강산')
+    console.log('대한 사람 대한으로 길이 보전하세')
+}
 
 // 애국가 가사
 console.log('1절');

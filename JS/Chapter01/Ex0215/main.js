@@ -1,5 +1,6 @@
-function interestCalculator(myMoney, saveTerm, interestRate) {
-    return myMoney * saveTerm * interestRate / 100;
+// 여기에 코드를 입력해 주세요.
+function interestCalculator(amount, term, rate) {
+    return amount * term * rate / 100;
 };
 
 // 조건 입력 테스트
