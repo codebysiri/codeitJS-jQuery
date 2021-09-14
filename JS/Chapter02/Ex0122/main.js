@@ -12,7 +12,8 @@ let result2;
 // 연산을 통해 result1에 문자열 '34'를, result2에 숫자형 34를 만들어 넣어주세요.
 // 코드를 작성해주세요.
 result1 = material2 + material4;
-result2 = Number(material2 + material5);
+result2 = Number(result1)
+
 
 // 테스트 코드
 console.log(result1);
